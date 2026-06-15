@@ -7,8 +7,13 @@
 • Exploring DSA and Software Engineering<br>
 • Open to internships and collaborations<br>
 
-<h3 align="center"> Tech Stack </h3>
+<h3 align="center"> Profiles </h3>
+• LinkedIn - https://www.linkedin.com/in/christyfrancis0876/<br>
+• CodeChef - https://www.codechef.com/users/christyf_99<br>
+• HackerRank - https://www.hackerrank.com/profile/christyfrancis11<br>
+• LeetCode - https://leetcode.com/u/Christy_08/<br>
 
+<h3 align="center"> Tech Stack </h3>
 📁 Programming Languages<br>
     ├── C++<br>
     ├── Python<br>
@@ -36,6 +41,15 @@
     ├── GitHub<br>
     └── VS Code<br>
 
-<h3 align="center"> Profiles </h3>
-[LinkedIn](https://www.linkedin.com/in/christyfrancis0876/)
-[CodeChef](https://www.codechef.com/users/christyf_99)
+<h3 align="center"> Projects </h3>
+📁 Client Projects <br>
+├── 🌐 PhysioFit Clinic <br>
+│   ├── Responsive Design <br>
+|   ├── SEO Optimized <br>
+│   ├── Appointment Booking <br>
+│   └── https://www.draditisphysiofit.in/ <br>
+│ <br>
+└── 🌐 Dr. Komal Gupta <br>
+    ├── Professional Healthcare Website <br>
+    ├── Responsive UI/UX <br>
+    └── https://drkomalgupta.com/ <br>
