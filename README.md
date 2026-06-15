@@ -1,5 +1,8 @@
-# 💫 About Me:
-🏫Currently a student at PCCOE<br>🎓Pursuing a degree in Computer Engineering
+<h1 align="center">Hello, I'm Christy Francis</h1>
+
+<h2 align="center">💫 About Me <h2 align="center">
+💠 Currently a Computer Engineering student at PCCOE<br>
+💠 
 
 
 # 💻 Tech Stack:
