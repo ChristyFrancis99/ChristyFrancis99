@@ -1,11 +1,41 @@
-<h1 align="center">Hello, I'm Christy Francis</h1>
+# Hello, I'm Christy Francis
 
-<h2 align="center">💫 About Me <h2 align="center">
-💠 Currently a Computer Engineering student at PCCOE<br>
-💠 
+<h3 align="center"> About Me </h3>
+• Currently a Computer Engineering student at PCCOE<br>
+• Learning Full Stack Development<br>
+• Interested in Web Development, 3D Experiences, and UI Design<br>
+• Exploring DSA and Software Engineering<br>
+• Open to internships and collaborations<br>
 
+<h3 align="center"> Tech Stack </h3>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+📁 Programming Languages<br>
+    ├── C++<br>
+    ├── Python<br>
+    └── JavaScript<br>
+<br>
+📁 Web Development<br>
+    ├── HTML<br>
+    ├── CSS<br>
+    └── Node.js<br>
+<br>
+📁 Database<br>
+    └── MySQL<br>
+<br>
+📁 Core Concepts<br>
+    ├── Data Structures & Algorithms<br>
+    ├── Object-Oriented Programming (OOP)<br>
+    └── Database Management Systems (DBMS)<br>
+<br>
+📁 Game Development & Design<br>
+    ├── Unity<br>
+    └── Blender<br>
+<br>
+📁 Tools<br>
+    ├── Git<br>
+    ├── GitHub<br>
+    └── VS Code<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center"> Profiles </h3>
+[LinkedIn](https://www.linkedin.com/in/christyfrancis0876/)
+[CodeChef](https://www.codechef.com/users/christyf_99)
