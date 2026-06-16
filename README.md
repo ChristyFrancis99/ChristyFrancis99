@@ -21,11 +21,15 @@
 
 
 ## [ Tech Stack & Tools ]
+
+
 #### Programming Languages
 <p><img src="https://skillicons.dev/icons?i=cpp,cs,c,py,js" /></p>
 
 #### Web Development
 <p><img src="https://skillicons.dev/icons?i=html,css,nodejs,react" /></p>
+
+<img class="cat" src="bongo-cat.gif" alt="bongo cat" align="right" width="300">
 
 #### Database
 <p><img src="https://skillicons.dev/icons?i=mysql" /></p>
