@@ -1,5 +1,7 @@
 <img src="./Gitbanner.png" width="100%" />
 
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00FFFF&background=0D1117&center=true&vCenter=true&width=700&lines=%24+booting+developer.exe;%24+loading+skills...;%24+system+online;%24+welcome+to+my+cyber+space" /> -->
+
 #
 ## [ About Me ]
 • Currently a Computer Engineering student at PCCOE<br>
@@ -47,6 +49,8 @@
 ## [ GitHub Stats ]
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChristyFrancis99&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ChristyFrancis99&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristyFrancis99&layout=compact&theme=tokyonight)
 
