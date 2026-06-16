@@ -4,11 +4,18 @@
 
 #
 ## [ About Me ]
-• Currently a Computer Engineering student at PCCOE<br>
-• Learning Full Stack Development<br>
-• Interested in Web Development, 3D Experiences, and UI Design<br>
-• Exploring DSA and Software Engineering<br>
-• Open to internships and collaborations<br>
+<div class="about">
+  <div class="about-text">
+    <br>
+    • Currently a Computer Engineering student at PCCOE<br>
+    • Learning Full Stack Development<br>
+    • Interested in Web Development, 3D Experiences, and UI Design<br>
+    • Exploring DSA and Software Engineering<br>
+    • Open to internships and collaborations<br>
+  </div>
+
+  <img class="duck" src="dancing-duck-danse.gif" alt="Walking duck">
+</div>
 
 ## [ Profiles ]
 • LinkedIn - https://www.linkedin.com/in/christyfrancis0876/<br>
